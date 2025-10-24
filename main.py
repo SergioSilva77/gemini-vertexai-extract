@@ -230,19 +230,6 @@ def obter_texto_documento(prompt, file, typeDoc):
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
     pdf_b64 = convert_pdf_to_base64(file)
 
     if typeDoc == 'jpg':
